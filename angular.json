@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "m-app"
+    }
+  },
+  "defaultProject": "m-app",
+  "cli": {
+    "analytics": "0c649371-5c16-41b9-812d-9080b15d9884"
+  }
 }
